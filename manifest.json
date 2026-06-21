@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "DSA Mentor",
+  "version": "1.0",
+  "description": "Your personal DSA mentor on LeetCode.",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://leetcode.com/problems/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "css": [
+        "style.css"
+      ],
+      "run_at": "document_end"
+    }
+  ],
+  "action": {
+    "default_title": "DSA Mentor is active on LeetCode!"
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ]
+}
