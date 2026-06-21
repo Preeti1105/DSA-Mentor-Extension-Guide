@@ -1,4 +1,4 @@
-<img width="1918" height="901" alt="image" src="https://github.com/user-attachments/assets/f0eca14e-f48c-4b93-891e-53747af3e73f" /># DSA Mentor – Chrome Extension
+<img width="800" height="383" alt="ScreenRecording2026-06-21190219-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/1baca83e-b00e-403a-96df-e68a6e8b2332" />
 
 A Chrome extension designed to support users while solving DSA problems directly on coding platforms.
 
