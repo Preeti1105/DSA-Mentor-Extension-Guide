@@ -1,4 +1,4 @@
-# DSA Mentor – Chrome Extension
+<img width="1918" height="901" alt="image" src="https://github.com/user-attachments/assets/f0eca14e-f48c-4b93-891e-53747af3e73f" /># DSA Mentor – Chrome Extension
 
 A Chrome extension designed to support users while solving DSA problems directly on coding platforms.
 
@@ -56,8 +56,8 @@ localStorage
 ---
 
 ## Screenshots
+<img width="1918" height="901" alt="Screenshot 2026-06-21 191815" src="https://github.com/user-attachments/assets/07a40627-f893-4a3e-8cfc-7109acb1a114" />
 
-(Add screenshots here)
 
 ---
 
